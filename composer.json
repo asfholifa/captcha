@@ -1,0 +1,17 @@
+{
+    "name": "asfh/captcha",
+    "type": "library",
+    "description": "",
+    "authors": [
+        {
+            "name": "asfholifa",
+            "email": "asfholifa@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Captcha\\Classes\\":"classes/"
+        }
+    }
+}
